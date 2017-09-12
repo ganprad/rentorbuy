@@ -3,6 +3,8 @@ rentorbuy
 
 A Project that uses Zillow research data on Quandl, Prophet for time series forecasting, Geopy for geocoding, Altair for vega-lite charts and Folium for creating an interactive map.
 
+`Live example <https://bl.ocks.org/ganprad/e2438bb4792cf81202419899aa70166d>`__
+
 Install Anaconda(https://docs.anaconda.com/anaconda/install/) and setup environment using:
 
   - ``conda create -n myenv python=3.4``
@@ -32,5 +34,4 @@ Inspiration:
 https://www.dataquest.io/blog/data-science-portfolio-project/
 
 
-`Live example <https://bl.ocks.org/ganprad/e2438bb4792cf81202419899aa70166d>`__
 
