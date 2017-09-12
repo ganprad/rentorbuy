@@ -5,7 +5,6 @@ A Project that uses Zillow research data on Quandl, Prophet for time series fore
 
 Setup environment using:
 
-.. code:: bash
     conda create -n myenv python=3.4
     pip install -r requirements.txt
 
