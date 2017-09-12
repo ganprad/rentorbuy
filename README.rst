@@ -27,6 +27,10 @@ https://vega.github.io/vega-lite/
 Folium:
 https://github.com/python-visualization/folium
 
+Inspiration:
+-----------
+https://www.dataquest.io/blog/python-json-tutorial/
+https://www.dataquest.io/blog/data-science-portfolio-project/
 
 `Live example <https://bl.ocks.org/ganprad/e2438bb4792cf81202419899aa70166d>`__
 
