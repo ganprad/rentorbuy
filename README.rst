@@ -4,7 +4,8 @@ rentorbuy
 A Project that uses Zillow research data on Quandl, Prophet for time series forecasting, Altair for vega-lite charts and Folium for an creating interactive map.
 
 Setup environment using:
-  `conda create -n myenv python=3.4`
+  ```bash
+  conda create -n myenv python=3.4```
   `pip install -r requirements.txt`
 
 
