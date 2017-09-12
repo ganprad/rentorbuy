@@ -8,7 +8,7 @@ Install Anaconda(https://docs.anaconda.com/anaconda/install/) and setup environm
   - ``conda create -n myenv python=3.4``
   - ``pip install -r requirements.txt``
 
-Tools and inspiration:
+Tools:
 ---------------------
 
 For accessing Quandl data an api key is needed:
