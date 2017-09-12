@@ -8,5 +8,5 @@ Install Anaconda(https://docs.anaconda.com/anaconda/install/) and setup environm
   - ``pip install -r requirements.txt``
 
 
-`Live example <https://bl.ocks.org/ganprad/56f35205d1c0d9d415f444e2acbc99f6>`__
+`Live example <https://bl.ocks.org/ganprad/e2438bb4792cf81202419899aa70166d>`__
 
