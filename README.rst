@@ -1,5 +1,6 @@
 rentorbuy
 =========
+.. image:: folium_vega.gif
 
 A Project that uses Zillow research data on Quandl, Prophet for time series forecasting, Geopy for geocoding, Altair for vega-lite charts and Folium for creating an interactive map.
 
