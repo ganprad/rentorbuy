@@ -1,7 +1,8 @@
 Rent or Buy?
 =========== 
-An example workflow using real estate data, creating forecasts and embedding them in an interactive map.
+An *example workflow* using real estate data, creating forecasts and embedding them in an interactive map.
 This could be a starting point of a deeper analysis.
+Map description:
 - The markers display forecasts of PHIV(Percentage of Homes Increasing in Value) for different zipcodes in the Chicago area. 
 PHIV is one among many metrics available from Zillow Research Data on Quandl.
 - The forecasts were generated using Prophet, it's intuitive interface make it a 
