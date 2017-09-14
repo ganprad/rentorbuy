@@ -10,11 +10,11 @@ Map description:
 - **Altair** makes it possible to generate vega-lite charts depicting forecasts. 
 - These vega-lite charts are then embedded into an interactive map using **Folium**. 
 
-Please have a look at the notebook for code used to generate the map.
-
 .. image:: folium_vega.gif
 
 `Live example <https://bl.ocks.org/ganprad/b6fec5a6080d3274a96f96866db49749>`__
+
+Please have a look at the notebook for code used to generate the map.
 
 Install Anaconda(https://docs.anaconda.com/anaconda/install/) and setup environment using:
 
