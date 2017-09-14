@@ -7,7 +7,7 @@ PHIV is one among many metrics available from Zillow Research Data on Quandl.
 The forecasts were generated using Prophet, it's intuitive interface make it a 
 convenient choice to do time-series analysis. Altair makes it possible to generate vega-lite
 charts depicting forecasts. These vega-lite charts are then embedded into an interactive map
-using Folium. Please have a look the the notebook containing the code for more information.
+using Folium. Please have a look at the notebook for code used to generate the map.
 
 
 .. image:: folium_vega.gif
