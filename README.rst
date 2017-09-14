@@ -1,6 +1,6 @@
 Rent or Buy?
 =========== 
-An *example workflow* using real estate data, creating forecasts and embedding them in an interactive map.
+An **example workflow** using real estate data, creating forecasts and embedding them in an interactive map.
 This could be a starting point of a deeper analysis.
 
 Map description:
