@@ -16,6 +16,8 @@ Map description:
 
 Please have a look at the notebook for code used to generate the map.
 
+Setup:
+-------
 Install Anaconda(https://docs.anaconda.com/anaconda/install/) and setup environment using:
 
   - ``conda create -n myenv python=3.4``
