@@ -3,9 +3,9 @@ rentorbuy
 A Project that uses Zillow research data on Quandl, Prophet for time series forecasting, Geopy for geocoding, Altair for vega-lite charts and Folium for creating an interactive map.
 
 The markers display forecasts of PHIV(Percentage of Homes Increasing in Value) for different zipcodes in the Chicago area. 
-The data is available on Quandl and PHIV is one among many metrics available from Zillow Research Data.
+PHIV is one among many metrics available from Zillow Research Data on Quandl.
 The forecasts were generated using Prophet, it's intuitive interface made it a 
-convenient choice to get started with time-series analysis. Altair made it possible to generate vega-lite
+convenient choice to do time-series analysis. Altair made it possible to generate vega-lite
 charts depicting forecasts. These vega-lite charts were then embedded into an interactive map
 using Folium.
 
