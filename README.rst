@@ -9,6 +9,7 @@ convenient choice to do time-series analysis. Altair makes it possible to genera
 charts depicting forecasts. These vega-lite charts are then embedded into an interactive map
 using Folium. Please have a look the the notebook containing the code for more information.
 
+
 .. image:: folium_vega.gif
 
 `Live example <https://bl.ocks.org/ganprad/b6fec5a6080d3274a96f96866db49749>`__
