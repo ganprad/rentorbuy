@@ -27,7 +27,7 @@ mistune==0.7.3
 more-itertools==3.2.0
 nbconvert==4.2.0
 nbformat==4.2.0
-notebook==4.3.1
+notebook==6.1.5
 numpy==1.11.3
 pandas==0.19.2
 pexpect==4.2.1
